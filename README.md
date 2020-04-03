@@ -13,7 +13,7 @@ By refactoring the code for our clients, Horiseon, we are able to improve the co
 
 I made the following changes to the code. The sections are divided up by the changes made to the index.html file and the style.css file. 
 
-Index.html Changes:
+##Index.html Changes:
 
 *Changed div to section around class=search engine optimization (line 29)
 *added alt text to line 30 for the search engine optimization image
@@ -31,7 +31,7 @@ Index.html Changes:
 *removed id="online-reputation-management" and id="social-media-maketing" as they already had a class assigned to this and no corresponding CSS
 *Added comments and dividers to the html to provide a quick reference for the following sections, as well as, a quick summary or pertinant changes. 
 
-Style.css Changes:
+##Style.css Changes:
 
 *Moved .content to below .hero to reflect the order in the HTML
 *corrected the css for the font calibra as it was not correctly inputed, should be 'calibra'
